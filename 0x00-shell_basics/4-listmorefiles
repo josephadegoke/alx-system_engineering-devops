@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#List all content including hidden files
+
+ls -la .

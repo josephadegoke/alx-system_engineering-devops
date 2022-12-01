@@ -1,0 +1,5 @@
+#!/bin/bash 
+
+#list content in current directory
+
+ls

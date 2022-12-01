@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#Moves file
+
+mv /tmp/betty  /tmp/my_first_directory
