@@ -1,5 +1,2 @@
 #!/bin/bash
-
-#absolute pathname of current working directory
-
 pwd
