@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 ln -s ~/bin/ls ../alx-system_engineering-devops/0x00-shell_basics/_ls_
+=======
+in -s "/bin/ls" "../alx-system_engineering-devops/0x00-shell_basics/_ls_"
+>>>>>>> 8fb8a7f67b736ac37fed6ebbedbfb642c6462a2c
